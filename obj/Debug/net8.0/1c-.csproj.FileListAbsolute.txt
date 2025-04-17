@@ -1,0 +1,15 @@
+/home/nodir/Desktop/c#/1c-/bin/Debug/net8.0/1c-
+/home/nodir/Desktop/c#/1c-/bin/Debug/net8.0/1c-.deps.json
+/home/nodir/Desktop/c#/1c-/bin/Debug/net8.0/1c-.runtimeconfig.json
+/home/nodir/Desktop/c#/1c-/bin/Debug/net8.0/1c-.dll
+/home/nodir/Desktop/c#/1c-/bin/Debug/net8.0/1c-.pdb
+/home/nodir/Desktop/c#/1c-/obj/Debug/net8.0/1c-.GeneratedMSBuildEditorConfig.editorconfig
+/home/nodir/Desktop/c#/1c-/obj/Debug/net8.0/1c-.AssemblyInfoInputs.cache
+/home/nodir/Desktop/c#/1c-/obj/Debug/net8.0/1c-.AssemblyInfo.cs
+/home/nodir/Desktop/c#/1c-/obj/Debug/net8.0/1c-.csproj.CoreCompileInputs.cache
+/home/nodir/Desktop/c#/1c-/obj/Debug/net8.0/1c-.sourcelink.json
+/home/nodir/Desktop/c#/1c-/obj/Debug/net8.0/1c-.dll
+/home/nodir/Desktop/c#/1c-/obj/Debug/net8.0/refint/1c-.dll
+/home/nodir/Desktop/c#/1c-/obj/Debug/net8.0/1c-.pdb
+/home/nodir/Desktop/c#/1c-/obj/Debug/net8.0/1c-.genruntimeconfig.cache
+/home/nodir/Desktop/c#/1c-/obj/Debug/net8.0/ref/1c-.dll
